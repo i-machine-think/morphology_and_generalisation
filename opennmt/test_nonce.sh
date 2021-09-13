@@ -1,7 +1,6 @@
 #!/bin/bash
 
 DATA_FOLDER="../wiktionary"
-SAVE_DATA_FOLDER="data"
 MODEL_FOLDER="models"
 
 MODEL_FILENAME="${MODEL_FOLDER}/seed=${1}_wiktionary/lstms2s"
