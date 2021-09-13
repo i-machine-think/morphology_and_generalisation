@@ -7,7 +7,7 @@ MODEL_FOLDER="models"
 
 SAVE_STEPS=719
 EPOCH_STEPS=719
-TOTAL_STEPS=18695
+TOTAL_STEPS=17975
 
 mkdir "${MODEL_FOLDER}/${2}"
 mkdir "${MODEL_FOLDER}/${2}/seed=${1}_wiktionary"
