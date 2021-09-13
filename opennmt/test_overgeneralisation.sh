@@ -3,8 +3,6 @@
 DATA_FOLDER="../wiktionary"
 MODEL_FOLDER="models"
 
-EPOCH_STEPS=719
-
 MODEL_FILENAME="${MODEL_FOLDER}/seed=${1}_wiktionary/lstms2s"
 PRD_FILENAME="${MODEL_FOLDER}/seed=${1}_wiktionary/wiktionary/lstms2s"
 
