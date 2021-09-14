@@ -265,7 +265,6 @@ focus target 2
 		- source: <f>trias</s>, prediction: triasen, intervention: triasen, target: trias, change: no_change, 2/0/0
 		- source: <m>tupilak</s>, prediction: tupilaken, intervention: tupilaken, target: tupilak, change: no_change, 2/0/0
 		- source: <n>töff</s>, prediction: töffe, intervention: töffe, target: töff, change: no_change, 2/1/1
-		- source: <n>x</s>, prediction: xe, intervention: xe, target: x, change: no_change, 2/1/1
 		- source: <n>a-schwa</s>, prediction: a-schwas, intervention: a-schwas, target: a-schwa, change: no_change, 2/4/4
 		- source: <f>ädikula</s>, prediction: ädikulaen, intervention: ädikulae, target: ädikulä, change: other, 2/0/1
 focus target 3
@@ -346,12 +345,11 @@ focus target 4
 		- source: <n>büfett</s>, prediction: büfette, intervention: büfette, target: büfetts, change: no_change, 4/1/1
 		- source: <m>canyon</s>, prediction: canyonen, intervention: caxanis, target: canyons, change: other, 4/0/6
 		- source: <n>changement</s>, prediction: changemente, intervention: chagenmets, target: changements, change: other, 4/1/6
-		- source: <n>chinarestaurant</s>, prediction: chinarestauranten, intervention: chiansertaustare, target: chinarestaurants, change: other, 4/0/6
 		- source: <m>cofferdam</s>, prediction: cofferdamen, intervention: cofferdamen, target: cofferdams, change: no_change, 4/0/0
 		- source: <m>collie</s>, prediction: collien, intervention: collien, target: collies, change: no_change, 4/0/0
-		- source: <n>comingout</s>, prediction: comingoute, intervention: comignoten, target: comingouts, change: other, 4/1/6
+		- source: <n>comingout</s>, prediction: comingoute, intervention: comignoti, target: comingouts, change: other, 4/1/6
 		- source: <m>content</s>, prediction: contenten, intervention: contenten, target: contents, change: no_change, 4/0/0
-		- source: <m>countrysong</s>, prediction: countrysongen, intervention: countryssoge, target: countrysongs, change: other, 4/0/6
+		- source: <m>countrysong</s>, prediction: countrysongen, intervention: cou, target: countrysongs, change: other, 4/0/6
 		- source: <n>crossposting</s>, prediction: crosspostinge, intervention: chosspostinge, target: crosspostings, change: other, 4/1/6
 		- source: <m>datentransfer</s>, prediction: datentransfer, intervention: datentrassder, target: datentransfers, change: other, 4/2/6
 		- source: <n>dauerschach</s>, prediction: dauerschache, intervention: dauerschöfse, target: dauerschachs, change: other, 4/1/6
@@ -391,7 +389,7 @@ focus target 4
 		- source: <f>ich-ag</s>, prediction: ich-agen, intervention: ich-agen, target: ich-ags, change: no_change, 4/0/0
 		- source: <m>iftar</s>, prediction: iftaren, intervention: iftaren, target: iftars, change: no_change, 4/0/0
 		- source: <n>indienne</s>, prediction: indienne, intervention: indienne, target: indiennes, change: no_change, 4/2/2
-		- source: <n>interrobang</s>, prediction: interrobange, intervention: interorbänge, target: interrobangs, change: other, 4/1/6
+		- source: <n>interrobang</s>, prediction: interrobange, intervention: i, target: interrobangs, change: other, 4/1/6
 		- source: <m>jecke</s>, prediction: jecken, intervention: jecken, target: jeckes, change: no_change, 4/0/0
 		- source: <m>jetset</s>, prediction: jetseten, intervention: jetseten, target: jetsets, change: no_change, 4/0/0
 		- source: <n>journal</s>, prediction: journale, intervention: journale, target: journals, change: no_change, 4/1/1
@@ -453,6 +451,7 @@ focus target 4
 		- source: <n>sidecar</s>, prediction: sidecare, intervention: sidecare, target: sidecars, change: no_change, 4/1/1
 		- source: <m>sire</s>, prediction: siren, intervention: siren, target: sires, change: no_change, 4/0/0
 		- source: <f>sitcom</s>, prediction: sitcomen, intervention: sitcomen, target: sitcoms, change: no_change, 4/0/0
+		- source: <n>skandalvideo</s>, prediction: skandalvideo, intervention: skandambideos, target: skandalvideos, change: other, 4/2/6
 		- source: <n>skull</s>, prediction: skulle, intervention: skulle, target: skulls, change: no_change, 4/1/1
 		- source: <m>smog</s>, prediction: smoge, intervention: zobsten, target: smogs, change: other, 4/1/6
 		- source: <f>sonnencreme</s>, prediction: sonnencremen, intervention: sonnecnermen, target: sonnencremes, change: other, 4/0/6
@@ -488,7 +487,6 @@ focus target 4
 		- source: <n>whiteboard</s>, prediction: whiteboarde, intervention: whidevostaße, target: whiteboards, change: other, 4/1/6
 		- source: <n>widget</s>, prediction: widgete, intervention: widgets, target: widgets, change: correction, 4/1/4
 		- source: <m>worksong</s>, prediction: worksonge, intervention: worksonge, target: worksongs, change: no_change, 4/1/1
-		- source: <n>wyandotte</s>, prediction: wyandotten, intervention: wyaknotten, target: wyandottes, change: other, 4/0/6
 		- source: <m>yogin</s>, prediction: yogine, intervention: yogine, target: yogins, change: no_change, 4/1/1
 		- source: <f>zabaglione</s>, prediction: zabaglionen, intervention: zabaglionen, target: zabagliones, change: no_change, 4/0/0
 		- source: <m>zahlungsstopp</s>, prediction: zahlungsstöppe, intervention: zahlungsstopps, target: zahlungsstopps, change: correction, 4/1/4

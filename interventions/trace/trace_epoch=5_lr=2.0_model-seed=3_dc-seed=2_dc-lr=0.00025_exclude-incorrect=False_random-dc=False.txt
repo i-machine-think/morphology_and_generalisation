@@ -194,7 +194,6 @@ focus target 1
 		- source: <f>holzaxt</s>, prediction: holzaxten, intervention: holzaxten, target: holzäxte, change: no_change, 1/0/0
 		- source: <m>iltis</s>, prediction: iltis, intervention: iltis, target: iltisse, change: no_change, 1/2/2
 		- source: <n>kaliumsalz</s>, prediction: kaliumsälzer, intervention: kaliumsalze, target: kaliumsalze, change: correction, 1/3/1
-		- source: <n>kartoffelmus</s>, prediction: kartoffelmüser, intervention: kartoffelmen, target: kartoffelmuse, change: other, 1/3/6
 		- source: <m>knicks</s>, prediction: knicks, intervention: knicks, target: knickse, change: no_change, 1/2/2
 		- source: <n>kollagen</s>, prediction: kollagen, intervention: kollagen, target: kollagene, change: no_change, 1/2/2
 		- source: <f>komplet</s>, prediction: kompleten, intervention: kompleten, target: komplete, change: no_change, 1/0/0
@@ -242,7 +241,6 @@ focus target 1
 		- source: <f>wildsau</s>, prediction: wildsauen, intervention: wildsauen, target: wildsäue, change: no_change, 1/0/0
 		- source: <m>wisent</s>, prediction: wisenten, intervention: wisenten, target: wisente, change: no_change, 1/0/0
 		- source: <m>zement</s>, prediction: zements, intervention: zements, target: zemente, change: no_change, 1/4/4
-		- source: <n>zick-zack</s>, prediction: zick-zäcker, intervention: zickkanze, target: zick-zacke, change: other, 1/3/6
 		- source: <m>ziziphus</s>, prediction: ziziphus, intervention: ziziphüse, target: ziziphusse, change: correction, 1/2/1
 		- source: <n>zwiegespräch</s>, prediction: zwiegesprächer, intervention: zwiegesprächer, target: zwiegespräche, change: no_change, 1/3/3
 		- source: <n>zwölfeck</s>, prediction: zwölfecks, intervention: zwölfecke, target: zwölfecke, change: correction, 1/4/1
@@ -276,7 +274,7 @@ focus target 2
 		- source: <m>äthiopier</s>, prediction: äthiopiere, intervention: äthiopiere, target: äthiopier, change: no_change, 2/1/1
 focus target 3
 		- source: <n>blaulicht</s>, prediction: blaulichte, intervention: blaulichter, target: blaulichter, change: correction, 3/1/3
-		- source: <n>brockengespenst</s>, prediction: brockengespenste, intervention: brockengesetsme, target: brockengespenster, change: other, 3/1/6
+		- source: <n>brockengespenst</s>, prediction: brockengespenste, intervention: brockengesents, target: brockengespenster, change: other, 3/1/6
 		- source: <n>chinagras</s>, prediction: chinagrase, intervention: chinagrase, target: chinagräser, change: no_change, 3/1/1
 		- source: <m>drehwurm</s>, prediction: drehwürme, intervention: drehwürmer, target: drehwürmer, change: correction, 3/1/3
 		- source: <n>federbrett</s>, prediction: federbrette, intervention: federbretter, target: federbretter, change: correction, 3/1/3
@@ -333,7 +331,7 @@ focus target 4
 		- source: <n>cornichon</s>, prediction: cornichone, intervention: cornichone, target: cornichons, change: no_change, 4/1/1
 		- source: <m>datentransfer</s>, prediction: datentransfer, intervention: datentrasfenre, target: datentransfers, change: other, 4/2/6
 		- source: <n>dauerschach</s>, prediction: dauerschächer, intervention: dauerschächer, target: dauerschachs, change: no_change, 4/3/3
-		- source: <f>debellatio</s>, prediction: debellationen, intervention: debellationen, target: debellationes, change: no_change, 4/0/0
+		- source: <f>debellatio</s>, prediction: debellationen, intervention: debellation, target: debellationes, change: no_change, 4/0/0
 		- source: <m>doppelklick</s>, prediction: doppelklicke, intervention: doppelklicke, target: doppelklicks, change: no_change, 4/1/1
 		- source: <n>dragee</s>, prediction: dragee, intervention: dragee, target: dragees, change: no_change, 4/2/2
 		- source: <f>farbkamera</s>, prediction: farbkamera, intervention: farkbamera, target: farbkameras, change: other, 4/2/6

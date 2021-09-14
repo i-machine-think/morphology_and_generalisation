@@ -1,0 +1,57 @@
+focus target 0
+		- source: <m>deist</s>, prediction: deiste, intervention: deiste, target: deisten, change: no_change, 0/1/1
+		- source: <m>flügelbauer</s>, prediction: flügelbauer, intervention: flügelbauer, target: flügelbauern, change: no_change, 0/2/2
+		- source: <m>laureat</s>, prediction: laureate, intervention: laureate, target: laureaten, change: no_change, 0/1/1
+		- source: <m>lemur</s>, prediction: lemure, intervention: lemure, target: lemuren, change: no_change, 0/1/1
+		- source: <m>plunder</s>, prediction: plunder, intervention: plunder, target: plundern, change: no_change, 0/2/2
+		- source: <m>scharfschütze</s>, prediction: scharfschütze, intervention: scharfschütze, target: scharfschützen, change: no_change, 0/2/2
+		- source: <n>seiherl</s>, prediction: seiherle, intervention: seiherle, target: seiherln, change: no_change, 0/1/1
+		- source: <m>weps</s>, prediction: wepse, intervention: wepse, target: wepsen, change: no_change, 0/1/1
+		- source: <m>zentaur</s>, prediction: zentäure, intervention: zentäure, target: zentauren, change: no_change, 0/1/1
+		- source: <m>zimmerkollege</s>, prediction: zimmerkollege, intervention: zimmerkollege, target: zimmerkollegen, change: no_change, 0/2/2
+		- source: <n>zuhäusl</s>, prediction: zuhäusle, intervention: zuhäusle, target: zuhäusln, change: no_change, 0/1/1
+focus target 1
+		- source: <m>baas</s>, prediction: baas, intervention: baas, target: baase, change: no_change, 1/2/2
+		- source: <m>birkenteer</s>, prediction: birkenteer, intervention: birkenteren, target: birkenteere, change: other, 1/2/6
+		- source: <n>dirigierpult</s>, prediction: dirigierpulter, intervention: dirigierpulter, target: dirigierpulte, change: no_change, 1/3/3
+		- source: <n>dreigespann</s>, prediction: dreigespänner, intervention: dreigespänner, target: dreigespanne, change: no_change, 1/3/3
+		- source: <n>geschwulst</s>, prediction: geschwülster, intervention: geschwülster, target: geschwulste, change: no_change, 1/3/3
+		- source: <m>harpunier</s>, prediction: harpunier, intervention: harpunier, target: harpuniere, change: no_change, 1/2/2
+		- source: <n>herzass</s>, prediction: herzässer, intervention: herzässer, target: herzasse, change: no_change, 1/3/3
+		- source: <m>kassier</s>, prediction: kassier, intervention: kassier, target: kassiere, change: no_change, 1/2/2
+		- source: <n>küchenbord</s>, prediction: küchenbörder, intervention: küchenbörder, target: küchenborde, change: no_change, 1/3/3
+		- source: <f>rentierhaut</s>, prediction: rentierhauten, intervention: rentierhauten, target: rentierhäute, change: no_change, 1/0/0
+		- source: <n>trumpfass</s>, prediction: trumpfässer, intervention: trumpfässer, target: trumpfasse, change: no_change, 1/3/3
+		- source: <m>wisent</s>, prediction: wisenten, intervention: wisenten, target: wisente, change: no_change, 1/0/0
+focus target 2
+		- source: <m>bierkäse</s>, prediction: bierkäsen, intervention: bierkäsen, target: bierkäse, change: no_change, 2/0/0
+		- source: <n>croquis</s>, prediction: croquisse, intervention: croquisse, target: croquis, change: no_change, 2/1/1
+		- source: <n>gesprenge</s>, prediction: gesprengen, intervention: gesprengen, target: gesprenge, change: no_change, 2/0/0
+		- source: <n>lächeln</s>, prediction: lächelne, intervention: lächelne, target: lächeln, change: no_change, 2/1/1
+		- source: <n>stokes</s>, prediction: stokesse, intervention: stokesse, target: stokes, change: no_change, 2/1/1
+		- source: <f>tagetes</s>, prediction: tagetesse, intervention: tagetesse, target: tagetes, change: no_change, 2/1/1
+		- source: <n>töff</s>, prediction: töffe, intervention: töffe, target: töff, change: no_change, 2/1/1
+focus target 3
+		- source: <n>feierbiest</s>, prediction: feierbieste, intervention: feierbieste, target: feierbiester, change: no_change, 3/1/1
+		- source: <n>malweib</s>, prediction: malweibe, intervention: malweibe, target: malweiber, change: no_change, 3/1/1
+		- source: <n>schwert</s>, prediction: schwerte, intervention: schwerte, target: schwerter, change: no_change, 3/1/1
+		- source: <n>seeamt</s>, prediction: seeamte, intervention: seeamte, target: seeämter, change: no_change, 3/1/1
+		- source: <n>vollweib</s>, prediction: vollweibe, intervention: vollweibe, target: vollweiber, change: no_change, 3/1/1
+focus target 4
+		- source: <n>apfelschorle</s>, prediction: apfelschorle, intervention: apfelschorle, target: apfelschorles, change: no_change, 4/2/2
+		- source: <m>benefit</s>, prediction: benefite, intervention: benefite, target: benefits, change: no_change, 4/1/1
+		- source: <m>binärcode</s>, prediction: binärcoden, intervention: binärcoden, target: binärcodes, change: no_change, 4/0/0
+		- source: <n>büfett</s>, prediction: büfette, intervention: büfette, target: büfetts, change: no_change, 4/1/1
+		- source: <m>content</s>, prediction: contenten, intervention: contenten, target: contents, change: no_change, 4/0/0
+		- source: <m>garderobier</s>, prediction: garderobier, intervention: garderobier, target: garderobiers, change: no_change, 4/2/2
+		- source: <n>hoch</s>, prediction: hoche, intervention: hoche, target: hochs, change: no_change, 4/1/1
+		- source: <m>minstrel</s>, prediction: minstrel, intervention: minstrel, target: minstrels, change: no_change, 4/2/2
+		- source: <m>morsekode</s>, prediction: morsekoden, intervention: morsekoden, target: morsekodes, change: no_change, 4/0/0
+		- source: <m>personalchef</s>, prediction: personalchef, intervention: personalchef, target: personalchefs, change: no_change, 4/2/2
+		- source: <m>porsche</s>, prediction: porschen, intervention: porschen, target: porsches, change: no_change, 4/0/0
+		- source: <n>roulette</s>, prediction: rouletten, intervention: rouletten, target: roulettes, change: no_change, 4/0/0
+		- source: <m>schah</s>, prediction: schahe, intervention: schahe, target: schahs, change: no_change, 4/1/1
+		- source: <m>sire</s>, prediction: siren, intervention: siren, target: sires, change: no_change, 4/0/0
+		- source: <f>sonnencreme</s>, prediction: sonnencremen, intervention: sonnencremen, target: sonnencremes, change: no_change, 4/0/0
+		- source: <m>stent</s>, prediction: stente, intervention: stente, target: stents, change: no_change, 4/1/1
+		- source: <m>videochat</s>, prediction: videochaten, intervention: videcohaten, target: videochats, change: other, 4/0/6

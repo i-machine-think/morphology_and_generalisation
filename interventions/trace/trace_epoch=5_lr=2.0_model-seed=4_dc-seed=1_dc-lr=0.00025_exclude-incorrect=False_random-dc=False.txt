@@ -255,7 +255,6 @@ focus target 1
 		- source: <m>unteroffizier</s>, prediction: unteroffizier, intervention: unteroffizier, target: unteroffiziere, change: no_change, 1/2/2
 		- source: <m>urning</s>, prediction: urnings, intervention: urnings, target: urninge, change: no_change, 1/4/4
 		- source: <m>uz</s>, prediction: uzs, intervention: uzs, target: uze, change: no_change, 1/4/4
-		- source: <m>vagantenbischof</s>, prediction: vagantenbischofen, intervention: vagantenbischofen, target: vagantenbischöfe, change: no_change, 1/0/0
 		- source: <m>vampyr</s>, prediction: vampyren, intervention: vampyren, target: vampyre, change: no_change, 1/0/0
 		- source: <n>volontariat</s>, prediction: volontariaten, intervention: volontariaten, target: volontariate, change: no_change, 1/0/0
 		- source: <m>vorspann</s>, prediction: vorspannen, intervention: vorspannen, target: vorspanne, change: no_change, 1/0/0
@@ -291,13 +290,13 @@ focus target 2
 		- source: <m>enokidake</s>, prediction: enokidaken, intervention: enokidaken, target: enokidake, change: no_change, 2/0/0
 		- source: <f>erbtochter</s>, prediction: erbtochtern, intervention: erbtochtern, target: erbtöchter, change: no_change, 2/0/0
 		- source: <m>espuma</s>, prediction: espumas, intervention: espumas, target: espuma, change: no_change, 2/4/4
-		- source: <n>eutheria</s>, prediction: eutherias, intervention: eutheriaten, target: eutheria, change: other, 2/4/0
+		- source: <n>eutheria</s>, prediction: eutherias, intervention: eutherias, target: eutheria, change: no_change, 2/4/4
 		- source: <n>gehäuse</s>, prediction: gehäusen, intervention: gehäusen, target: gehäuse, change: no_change, 2/0/0
 		- source: <n>gerippe</s>, prediction: gerippen, intervention: gerippen, target: gerippe, change: no_change, 2/0/0
 		- source: <n>gesprenge</s>, prediction: gesprengen, intervention: gesprengen, target: gesprenge, change: no_change, 2/0/0
 		- source: <n>gewerbe</s>, prediction: gewerben, intervention: gewerben, target: gewerbe, change: no_change, 2/0/0
 		- source: <n>gewölbe</s>, prediction: gewölben, intervention: gewölben, target: gewölbe, change: no_change, 2/0/0
-		- source: <n>gipfeli</s>, prediction: gipfelie, intervention: gipfelie, target: gipfeli, change: no_change, 2/1/1
+		- source: <n>gipfeli</s>, prediction: gipfelie, intervention: gipfeli, target: gipfeli, change: correction, 2/1/2
 		- source: <n>gummiringerl</s>, prediction: gummiringerle, intervention: gummiringerle, target: gummiringerl, change: no_change, 2/1/1
 		- source: <n>halbfinale</s>, prediction: halbfinales, intervention: halbfinales, target: halbfinale, change: no_change, 2/4/4
 		- source: <f>handvoll</s>, prediction: handvollen, intervention: handvölle, target: handvoll, change: other, 2/0/1
@@ -307,7 +306,6 @@ focus target 2
 		- source: <m>komi</s>, prediction: komis, intervention: komi, target: komi, change: correction, 2/4/2
 		- source: <n>korps</s>, prediction: korpse, intervention: korps, target: korps, change: correction, 2/1/2
 		- source: <n>lächeln</s>, prediction: lächelne, intervention: lächenle, target: lächeln, change: other, 2/1/6
-		- source: <m>marquis</s>, prediction: marquisse, intervention: marudisse, target: marquis, change: other, 2/1/6
 		- source: <m>ngoni</s>, prediction: ngonis, intervention: ngonis, target: ngoni, change: no_change, 2/4/4
 		- source: <n>olf</s>, prediction: olfs, intervention: olfe, target: olf, change: other, 2/4/1
 		- source: <f>paprika</s>, prediction: paprikas, intervention: papriken, target: paprika, change: other, 2/4/6
@@ -327,14 +325,13 @@ focus target 2
 		- source: <m>tupilak</s>, prediction: tupilaks, intervention: tupilaks, target: tupilak, change: no_change, 2/4/4
 		- source: <n>töff</s>, prediction: töffe, intervention: töffe, target: töff, change: no_change, 2/1/1
 		- source: <n>a-schwa</s>, prediction: a-schwas, intervention: a-schwas, target: a-schwa, change: no_change, 2/4/4
-		- source: <n>kj</s>, prediction: kjs, intervention: k, target: kj, change: other, 2/4/6
 		- source: <f>ädikula</s>, prediction: ädikulas, intervention: ädikulas, target: ädikulä, change: no_change, 2/4/4
 		- source: <m>äthiopier</s>, prediction: äthiopiere, intervention: äthiopiere, target: äthiopier, change: no_change, 2/1/1
 focus target 3
-		- source: <m>aalbeerstrauch</s>, prediction: aalbeersträuche, intervention: aalbeersträuche, target: aalbeersträucher, change: no_change, 3/1/1
+		- source: <m>aalbeerstrauch</s>, prediction: aalbeersträuche, intervention: a, target: aalbeersträucher, change: other, 3/1/6
 		- source: <n>blaulicht</s>, prediction: blaulichte, intervention: blaulichte, target: blaulichter, change: no_change, 3/1/1
 		- source: <n>blässhuhn</s>, prediction: blässhuhne, intervention: blässhuhne, target: blässhühner, change: no_change, 3/1/1
-		- source: <n>brutei</s>, prediction: bruteie, intervention: bruteite, target: bruteier, change: no_change, 3/1/1
+		- source: <n>brutei</s>, prediction: bruteie, intervention: bruteie, target: bruteier, change: no_change, 3/1/1
 		- source: <n>chinagras</s>, prediction: chinagrasse, intervention: chinagrasse, target: chinagräser, change: no_change, 3/1/1
 		- source: <m>drehwurm</s>, prediction: drehwurme, intervention: drehwurme, target: drehwürmer, change: no_change, 3/1/1
 		- source: <m>ehemann</s>, prediction: ehemänne, intervention: ehemänne, target: ehemänner, change: no_change, 3/1/1
@@ -376,7 +373,7 @@ focus target 3
 		- source: <n>seeamt</s>, prediction: seeamte, intervention: seeamte, target: seeämter, change: no_change, 3/1/1
 		- source: <m>sexgott</s>, prediction: sexgotten, intervention: sexgotten, target: sexgötter, change: no_change, 3/0/0
 		- source: <n>standesamt</s>, prediction: standesamte, intervention: standesamte, target: standesämter, change: no_change, 3/1/1
-		- source: <n>storchennest</s>, prediction: storchenneste, intervention: storchenniesten, target: storchennester, change: other, 3/1/6
+		- source: <n>storchennest</s>, prediction: storchenneste, intervention: storchenneste, target: storchennester, change: no_change, 3/1/1
 		- source: <m>strauch</s>, prediction: strauche, intervention: strauche, target: sträucher, change: no_change, 3/1/1
 		- source: <n>strohdach</s>, prediction: strohdache, intervention: strohdache, target: strohdächer, change: no_change, 3/1/1
 		- source: <n>ungras</s>, prediction: ungrase, intervention: ungrase, target: ungräser, change: no_change, 3/1/1
@@ -416,7 +413,7 @@ focus target 4
 		- source: <n>dauerschach</s>, prediction: dauerschache, intervention: dauerschache, target: dauerschachs, change: no_change, 4/1/1
 		- source: <f>debellatio</s>, prediction: debellationen, intervention: debellationen, target: debellationes, change: no_change, 4/0/0
 		- source: <n>dia</s>, prediction: dia, intervention: dia, target: dias, change: no_change, 4/2/2
-		- source: <m>donut</s>, prediction: donuten, intervention: donuten, target: donuts, change: no_change, 4/0/0
+		- source: <m>donut</s>, prediction: donuten, intervention: donuts, target: donuts, change: correction, 4/0/4
 		- source: <m>doppelklick</s>, prediction: doppelklicke, intervention: doppelklicke, target: doppelklicks, change: no_change, 4/1/1
 		- source: <m>fight</s>, prediction: fighten, intervention: fighten, target: fights, change: no_change, 4/0/0
 		- source: <m>filmstar</s>, prediction: filmstaren, intervention: filmstaren, target: filmstars, change: no_change, 4/0/0

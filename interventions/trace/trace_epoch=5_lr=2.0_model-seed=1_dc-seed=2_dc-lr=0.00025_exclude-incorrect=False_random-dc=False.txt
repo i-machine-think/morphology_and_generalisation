@@ -75,7 +75,7 @@ focus target 0
 		- source: <m>slawe</s>, prediction: släwes, intervention: slawen, target: slawen, change: correction, 0/4/0
 		- source: <m>soldat</s>, prediction: soldate, intervention: soldaten, target: soldaten, change: correction, 0/1/0
 		- source: <m>sonnenstrahl</s>, prediction: sonnensträhle, intervention: sonnenstrahlen, target: sonnenstrahlen, change: correction, 0/1/0
-		- source: <m>spezl</s>, prediction: spezl, intervention: spezzen, target: spezln, change: other, 0/2/6
+		- source: <m>spezl</s>, prediction: spezl, intervention: spezl, target: spezln, change: no_change, 0/2/2
 		- source: <n>stanitzl</s>, prediction: stanitzle, intervention: staniztl, target: stanitzln, change: other, 0/1/6
 		- source: <m>tempomat</s>, prediction: tempomate, intervention: tempomaten, target: tempomaten, change: correction, 0/1/0
 		- source: <n>totenbett</s>, prediction: totenbette, intervention: tonetbetten, target: totenbetten, change: other, 0/1/6
@@ -247,7 +247,6 @@ focus target 2
 		- source: <f>schwiegertochter</s>, prediction: schwiegertochtern, intervention: schwiegertochter, target: schwiegertöchter, change: correction, 2/0/2
 		- source: <n>sennenkäpplein</s>, prediction: sennenkäppleine, intervention: sennenkäppleine, target: sennenkäpplein, change: no_change, 2/1/1
 		- source: <n>siemens</s>, prediction: siemense, intervention: siemensse, target: siemens, change: no_change, 2/1/1
-		- source: <n>stokes</s>, prediction: stokesse, intervention: stokesse, target: stokes, change: no_change, 2/1/1
 		- source: <n>städtlein</s>, prediction: städtleine, intervention: städtleine, target: städtlein, change: no_change, 2/1/1
 		- source: <f>tagesmutter</s>, prediction: tagesmuttern, intervention: tagesmutter, target: tagesmütter, change: correction, 2/0/2
 		- source: <f>tagetes</s>, prediction: tagetesse, intervention: tagetesse, target: tagetes, change: no_change, 2/1/1
@@ -260,7 +259,7 @@ focus target 2
 		- source: <n>türmlein</s>, prediction: türmleine, intervention: türmleine, target: türmlein, change: no_change, 2/1/1
 		- source: <n>x</s>, prediction: xs, intervention: s, target: x, change: other, 2/4/6
 		- source: <n>a-schwa</s>, prediction: a-schwas, intervention: a-schwas, target: a-schwa, change: no_change, 2/4/4
-		- source: <n>kj</s>, prediction: kjs, intervention: kjne, target: kj, change: other, 2/4/1
+		- source: <n>kj</s>, prediction: kjs, intervention: kl, target: kj, change: other, 2/4/6
 		- source: <f>ädikula</s>, prediction: ädikulas, intervention: ädikulas, target: ädikulä, change: no_change, 2/4/4
 focus target 3
 		- source: <n>becherglas</s>, prediction: becherglase, intervention: becherglase, target: bechergläser, change: no_change, 3/1/1
@@ -375,7 +374,7 @@ focus target 4
 		- source: <m>garderobier</s>, prediction: garderobier, intervention: garderobier, target: garderobiers, change: no_change, 4/2/2
 		- source: <m>generalstreik</s>, prediction: generalstreike, intervention: generalstreise, target: generalstreiks, change: other, 4/1/6
 		- source: <m>geruchstest</s>, prediction: geruchsteste, intervention: geruchsteste, target: geruchstests, change: no_change, 4/1/1
-		- source: <n>grün</s>, prediction: grüne, intervention: grüns, target: grüns, change: correction, 4/1/4
+		- source: <n>grün</s>, prediction: grüne, intervention: grüs, target: grüns, change: other, 4/1/6
 		- source: <m>hackathon</s>, prediction: hackathone, intervention: hackathone, target: hackathons, change: no_change, 4/1/1
 		- source: <m>hackentrick</s>, prediction: hackentricke, intervention: hackentricke, target: hackentricks, change: no_change, 4/1/1
 		- source: <m>header</s>, prediction: header, intervention: header, target: headers, change: no_change, 4/2/2
@@ -411,6 +410,7 @@ focus target 4
 		- source: <m>naugh</s>, prediction: naughe, intervention: naughe, target: naughs, change: no_change, 4/1/1
 		- source: <n>overstatement</s>, prediction: overstatemente, intervention: overstatenper, target: overstatements, change: other, 4/1/6
 		- source: <n>pantheon</s>, prediction: pantheone, intervention: pantheose, target: pantheons, change: other, 4/1/6
+		- source: <n>par</s>, prediction: par, intervention: pars, target: pars, change: correction, 4/2/4
 		- source: <m>personalchef</s>, prediction: personalchef, intervention: personarchebe, target: personalchefs, change: other, 4/2/6
 		- source: <f>playlist</s>, prediction: playlisten, intervention: playlisten, target: playlists, change: no_change, 4/0/0
 		- source: <n>popcorn</s>, prediction: popcorne, intervention: popcorne, target: popcorns, change: no_change, 4/1/1
@@ -420,7 +420,7 @@ focus target 4
 		- source: <f>queue</s>, prediction: queuen, intervention: queuer, target: queues, change: other, 4/0/3
 		- source: <m>quinnat</s>, prediction: quinnate, intervention: quinnate, target: quinnats, change: no_change, 4/1/1
 		- source: <m>radiobutton</s>, prediction: radiobuttonen, intervention: radiobutsote, target: radiobuttons, change: other, 4/0/6
-		- source: <m>regierungschef</s>, prediction: regierungschefe, intervention: regierungschesse, target: regierungschefs, change: other, 4/1/6
+		- source: <m>regierungschef</s>, prediction: regierungschefe, intervention: regierungsches, target: regierungschefs, change: other, 4/1/6
 		- source: <n>rekordhoch</s>, prediction: rekordhöcher, intervention: rekordhöche, target: rekordhochs, change: other, 4/3/1
 		- source: <n>resort</s>, prediction: resorte, intervention: resorte, target: resorts, change: no_change, 4/1/1
 		- source: <n>revirement</s>, prediction: reviremente, intervention: revirements, target: revirements, change: correction, 4/1/4
@@ -460,4 +460,4 @@ focus target 4
 		- source: <m>worksong</s>, prediction: worksonge, intervention: worksonge, target: worksongs, change: no_change, 4/1/1
 		- source: <m>yachtclub</s>, prediction: yachtclübe, intervention: yachtclübe, target: yachtclubs, change: no_change, 4/1/1
 		- source: <f>zabaglione</s>, prediction: zabaglionen, intervention: zabagliasen, target: zabagliones, change: other, 4/0/6
-		- source: <m>zahlungsstopp</s>, prediction: zahlungsstöppe, intervention: zahlungsstöppe, target: zahlungsstopps, change: no_change, 4/1/1
+		- source: <m>zahlungsstopp</s>, prediction: zahlungsstöppe, intervention: zahlungsspots, target: zahlungsstopps, change: other, 4/1/6

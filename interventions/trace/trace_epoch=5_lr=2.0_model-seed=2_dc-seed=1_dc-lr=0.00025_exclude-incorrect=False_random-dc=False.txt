@@ -259,7 +259,6 @@ focus target 3
 		- source: <m>drehwurm</s>, prediction: drehwürme, intervention: drehwürmer, target: drehwürmer, change: correction, 3/1/3
 		- source: <m>ehemann</s>, prediction: ehemanne, intervention: ehemanne, target: ehemänner, change: no_change, 3/1/1
 		- source: <n>einleitewort</s>, prediction: einleiteworte, intervention: einleiteworter, target: einleitewörter, change: correction, 3/1/3
-		- source: <n>elektrorad</s>, prediction: elektrorade, intervention: elektrorader, target: elektroräder, change: correction, 3/1/3
 		- source: <n>feierbiest</s>, prediction: feierbieste, intervention: feierbiester, target: feierbiester, change: correction, 3/1/3
 		- source: <n>flotzmaul</s>, prediction: flotzmaule, intervention: flotzmäuler, target: flotzmäuler, change: correction, 3/1/3
 		- source: <n>flüchtlingsamt</s>, prediction: flüchtlingsamte, intervention: flüchtlingstame, target: flüchtlingsämter, change: other, 3/1/6
