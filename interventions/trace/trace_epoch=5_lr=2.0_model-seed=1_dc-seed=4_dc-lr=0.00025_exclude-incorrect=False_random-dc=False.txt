@@ -247,7 +247,6 @@ focus target 2
 		- source: <f>schwiegertochter</s>, prediction: schwiegertochtern, intervention: schwiegertochter, target: schwiegertöchter, change: correction, 2/0/2
 		- source: <n>sennenkäpplein</s>, prediction: sennenkäppleine, intervention: sennenkäppleine, target: sennenkäpplein, change: no_change, 2/1/1
 		- source: <n>siemens</s>, prediction: siemense, intervention: siemense, target: siemens, change: no_change, 2/1/1
-		- source: <n>stokes</s>, prediction: stokesse, intervention: stokesse, target: stokes, change: no_change, 2/1/1
 		- source: <n>städtlein</s>, prediction: städtleine, intervention: städtleine, target: städtlein, change: no_change, 2/1/1
 		- source: <f>tagesmutter</s>, prediction: tagesmuttern, intervention: tagesmutter, target: tagesmütter, change: correction, 2/0/2
 		- source: <f>tagetes</s>, prediction: tagetesse, intervention: tagetesse, target: tagetes, change: no_change, 2/1/1
@@ -260,7 +259,7 @@ focus target 2
 		- source: <n>türmlein</s>, prediction: türmleine, intervention: türmleine, target: türmlein, change: no_change, 2/1/1
 		- source: <n>x</s>, prediction: xs, intervention: s, target: x, change: other, 2/4/6
 		- source: <n>a-schwa</s>, prediction: a-schwas, intervention: a-schwas, target: a-schwa, change: no_change, 2/4/4
-		- source: <n>kj</s>, prediction: kjs, intervention: kjne, target: kj, change: other, 2/4/1
+		- source: <n>kj</s>, prediction: kjs, intervention: kl, target: kj, change: other, 2/4/6
 		- source: <f>ädikula</s>, prediction: ädikulas, intervention: ädikulas, target: ädikulä, change: no_change, 2/4/4
 focus target 3
 		- source: <n>becherglas</s>, prediction: becherglase, intervention: becherglase, target: bechergläser, change: no_change, 3/1/1
@@ -391,7 +390,7 @@ focus target 4
 		- source: <m>julei</s>, prediction: juleie, intervention: juleie, target: juleis, change: no_change, 4/1/1
 		- source: <n>kapuzenshirt</s>, prediction: kapuzenshirte, intervention: kapuzensriche, target: kapuzenshirts, change: other, 4/1/6
 		- source: <f>kehillah</s>, prediction: kehillahen, intervention: kehillähe, target: kehillahs, change: other, 4/0/1
-		- source: <n>keyboard</s>, prediction: keyboarde, intervention: keybarose, target: keyboards, change: other, 4/1/6
+		- source: <n>keyboard</s>, prediction: keyboarde, intervention: keybaros, target: keyboards, change: other, 4/1/6
 		- source: <m>kneipier</s>, prediction: kneipier, intervention: kneipier, target: kneipiers, change: no_change, 4/2/2
 		- source: <m>konzernchef</s>, prediction: konzernchefe, intervention: konzernchefs, target: konzernchefs, change: correction, 4/1/4
 		- source: <m>kretin</s>, prediction: kretine, intervention: kretine, target: kretins, change: no_change, 4/1/1
@@ -411,6 +410,7 @@ focus target 4
 		- source: <m>naugh</s>, prediction: naughe, intervention: naughe, target: naughs, change: no_change, 4/1/1
 		- source: <n>overstatement</s>, prediction: overstatemente, intervention: overstatenper, target: overstatements, change: other, 4/1/6
 		- source: <n>pantheon</s>, prediction: pantheone, intervention: pantheose, target: pantheons, change: other, 4/1/6
+		- source: <n>par</s>, prediction: par, intervention: pars, target: pars, change: correction, 4/2/4
 		- source: <m>personalchef</s>, prediction: personalchef, intervention: personarchen, target: personalchefs, change: other, 4/2/6
 		- source: <f>playlist</s>, prediction: playlisten, intervention: playlisten, target: playlists, change: no_change, 4/0/0
 		- source: <n>popcorn</s>, prediction: popcorne, intervention: popcorne, target: popcorns, change: no_change, 4/1/1

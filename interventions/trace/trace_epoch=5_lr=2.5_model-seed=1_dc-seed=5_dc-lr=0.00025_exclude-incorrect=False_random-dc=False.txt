@@ -5,24 +5,24 @@ focus target 0
 		- source: <m>altbauer</s>, prediction: altbauer, intervention: altbauern, target: altbauern, change: correction, 0/2/0
 		- source: <m>anatom</s>, prediction: anatome, intervention: anatomen, target: anatomen, change: correction, 0/1/0
 		- source: <n>antineutron</s>, prediction: antineutrone, intervention: antineutrone, target: antineutronen, change: no_change, 0/1/1
-		- source: <n>antiphonar</s>, prediction: antiphonare, intervention: anthioprane, target: antiphonarien, change: other, 0/1/6
+		- source: <n>antiphonar</s>, prediction: antiphonare, intervention: anthioplane, target: antiphonarien, change: other, 0/1/6
 		- source: <m>antisemit</s>, prediction: antisemite, intervention: antisemiten, target: antisemiten, change: correction, 0/1/0
-		- source: <n>apokryph</s>, prediction: apokryphe, intervention: apokryphe, target: apokryphen, change: no_change, 0/1/1
+		- source: <n>apokryph</s>, prediction: apokryphe, intervention: apokryphen, target: apokryphen, change: correction, 0/1/0
 		- source: <m>arbeitswille</s>, prediction: arbeitswille, intervention: arbeitswillen, target: arbeitswillen, change: correction, 0/2/0
 		- source: <m>arsenolith</s>, prediction: arsenolithe, intervention: arsenolithen, target: arsenolithen, change: correction, 0/1/0
 		- source: <m>aschug</s>, prediction: aschuge, intervention: aschugen, target: aschughen, change: correction, 0/1/0
 		- source: <m>asket</s>, prediction: askets, intervention: askets, target: asketen, change: no_change, 0/4/4
-		- source: <m>asot</s>, prediction: asots, intervention: asots, target: asoten, change: no_change, 0/4/4
+		- source: <m>asot</s>, prediction: asots, intervention: asoten, target: asoten, change: correction, 0/4/0
 		- source: <m>atheist</s>, prediction: atheiste, intervention: atheisten, target: atheisten, change: correction, 0/1/0
 		- source: <m>atlant</s>, prediction: atlänte, intervention: atlanten, target: atlanten, change: correction, 0/1/0
 		- source: <m>automat</s>, prediction: automate, intervention: automaten, target: automaten, change: correction, 0/1/0
-		- source: <n>baumwollhemd</s>, prediction: baumwollhemde, intervention: baumwolhlemze, target: baumwollhemden, change: other, 0/1/6
+		- source: <n>baumwollhemd</s>, prediction: baumwollhemde, intervention: baumwollhehten, target: baumwollhemden, change: other, 0/1/6
 		- source: <n>baunzerl</s>, prediction: baunzerle, intervention: baunzerln, target: baunzerln, change: correction, 0/1/0
 		- source: <m>biathlet</s>, prediction: biathlets, intervention: biachlten, target: biathleten, change: other, 0/4/6
 		- source: <n>blumenkisterl</s>, prediction: blumenkisterle, intervention: blumenkistelle, target: blumenkisterln, change: other, 0/1/6
 		- source: <n>brathendl</s>, prediction: brathendle, intervention: brachtelben, target: brathendln, change: other, 0/1/6
 		- source: <m>christdemokrat</s>, prediction: christdemokrate, intervention: chrisdtemokorten, target: christdemokraten, change: other, 0/1/6
-		- source: <m>deist</s>, prediction: deiste, intervention: deiste, target: deisten, change: no_change, 0/1/1
+		- source: <m>deist</s>, prediction: deiste, intervention: deisten, target: deisten, change: correction, 0/1/0
 		- source: <m>dilettant</s>, prediction: dilettänte, intervention: dilettanten, target: dilettanten, change: correction, 0/1/0
 		- source: <m>endemit</s>, prediction: endemite, intervention: endemiten, target: endemiten, change: correction, 0/1/0
 		- source: <m>fahnenmast</s>, prediction: fahnenmäste, intervention: fahnenmäste, target: fahnenmasten, change: no_change, 0/1/1
@@ -31,7 +31,7 @@ focus target 0
 		- source: <n>gackerl</s>, prediction: gackerl, intervention: gackerln, target: gackerln, change: correction, 0/2/0
 		- source: <m>genotyp</s>, prediction: genotyps, intervention: genotyps, target: genotypen, change: no_change, 0/4/4
 		- source: <m>genussmensch</s>, prediction: genussmensche, intervention: genussmenschen, target: genussmenschen, change: correction, 0/1/0
-		- source: <m>geruchsnerv</s>, prediction: geruchsnerve, intervention: geruchsnerbe, target: geruchsnerven, change: other, 0/1/6
+		- source: <m>geruchsnerv</s>, prediction: geruchsnerve, intervention: geruchsberten, target: geruchsnerven, change: other, 0/1/6
 		- source: <n>graviton</s>, prediction: gravitons, intervention: gravitons, target: gravitonen, change: no_change, 0/4/4
 		- source: <m>grünfink</s>, prediction: grünfinks, intervention: grünbichen, target: grünfinken, change: other, 0/4/6
 		- source: <m>herostrat</s>, prediction: herostrate, intervention: herostraten, target: herostraten, change: correction, 0/1/0
@@ -41,16 +41,16 @@ focus target 0
 		- source: <m>jesuit</s>, prediction: jesuite, intervention: jesuiten, target: jesuiten, change: correction, 0/1/0
 		- source: <m>kalif</s>, prediction: kalife, intervention: kalifen, target: kalifen, change: correction, 0/1/0
 		- source: <m>krapp</s>, prediction: krapps, intervention: krapps, target: krappen, change: no_change, 0/4/4
-		- source: <m>laureat</s>, prediction: laureate, intervention: laureate, target: laureaten, change: no_change, 0/1/1
+		- source: <m>laureat</s>, prediction: laureate, intervention: laureaten, target: laureaten, change: correction, 0/1/0
 		- source: <m>lemur</s>, prediction: lemure, intervention: lemuren, target: lemuren, change: correction, 0/1/0
 		- source: <n>lepton</s>, prediction: leptons, intervention: leptons, target: leptonen, change: no_change, 0/4/4
 		- source: <m>leukozyt</s>, prediction: leukozyte, intervention: leukozyten, target: leukozyten, change: correction, 0/1/0
 		- source: <m>lichtstrahl</s>, prediction: lichtstrahle, intervention: lichtstrahlen, target: lichtstrahlen, change: correction, 0/1/0
 		- source: <m>ligand</s>, prediction: ligande, intervention: liganden, target: liganden, change: correction, 0/1/0
-		- source: <m>lippenbär</s>, prediction: lippenbäre, intervention: lippenbäre, target: lippenbären, change: no_change, 0/1/1
+		- source: <m>lippenbär</s>, prediction: lippenbäre, intervention: lippenbären, target: lippenbären, change: correction, 0/1/0
 		- source: <m>malerfürst</s>, prediction: malerfürste, intervention: malerfürste, target: malerfürsten, change: no_change, 0/1/1
 		- source: <m>marinesoldat</s>, prediction: marinesoldate, intervention: marinesoldaten, target: marinesoldaten, change: correction, 0/1/0
-		- source: <m>marsmensch</s>, prediction: marsmensche, intervention: marsmenschen, target: marsmenschen, change: correction, 0/1/0
+		- source: <m>marsmensch</s>, prediction: marsmensche, intervention: marshensten, target: marsmenschen, change: other, 0/1/6
 		- source: <m>myzet</s>, prediction: myzets, intervention: myzets, target: myzeten, change: no_change, 0/4/4
 		- source: <m>nationalheld</s>, prediction: nationalhelde, intervention: nationalhelden, target: nationalhelden, change: correction, 0/1/0
 		- source: <n>neutron</s>, prediction: neutrone, intervention: neutrone, target: neutronen, change: no_change, 0/1/1
@@ -75,23 +75,23 @@ focus target 0
 		- source: <m>slawe</s>, prediction: släwes, intervention: slawen, target: slawen, change: correction, 0/4/0
 		- source: <m>soldat</s>, prediction: soldate, intervention: soldaten, target: soldaten, change: correction, 0/1/0
 		- source: <m>sonnenstrahl</s>, prediction: sonnensträhle, intervention: sonnenstrahlen, target: sonnenstrahlen, change: correction, 0/1/0
-		- source: <m>spezl</s>, prediction: spezl, intervention: spezl, target: spezln, change: no_change, 0/2/2
-		- source: <n>stanitzl</s>, prediction: stanitzle, intervention: staniztl, target: stanitzln, change: other, 0/1/6
+		- source: <m>spezl</s>, prediction: spezl, intervention: spezzen, target: spezln, change: other, 0/2/6
+		- source: <n>stanitzl</s>, prediction: stanitzle, intervention: staniztln, target: stanitzln, change: other, 0/1/6
 		- source: <m>tempomat</s>, prediction: tempomate, intervention: tempomaten, target: tempomaten, change: correction, 0/1/0
-		- source: <n>totenbett</s>, prediction: totenbette, intervention: tonetbetten, target: totenbetten, change: other, 0/1/6
+		- source: <n>totenbett</s>, prediction: totenbette, intervention: tonedtente, target: totenbetten, change: other, 0/1/6
 		- source: <n>trockenbett</s>, prediction: trockenbette, intervention: trockenbette, target: trockenbetten, change: no_change, 0/1/1
-		- source: <n>trägermaterial</s>, prediction: trägermateriale, intervention: trägermateriale, target: trägermaterialien, change: no_change, 0/1/1
-		- source: <n>uniformhemd</s>, prediction: uniformhemde, intervention: uniformhemde, target: uniformhemden, change: no_change, 0/1/1
+		- source: <n>trägermaterial</s>, prediction: trägermateriale, intervention: trägermateliare, target: trägermaterialien, change: other, 0/1/6
+		- source: <n>uniformhemd</s>, prediction: uniformhemde, intervention: uniformhehne, target: uniformhemden, change: other, 0/1/6
 		- source: <f>unwucht</s>, prediction: unwüchte, intervention: unwüchte, target: unwuchten, change: no_change, 0/1/1
 		- source: <m>vizegraf</s>, prediction: vizegräfe, intervention: vizegrafen, target: vizegrafen, change: correction, 0/1/0
 		- source: <m>wahhabit</s>, prediction: wahhabite, intervention: wahhabiten, target: wahhabiten, change: correction, 0/1/0
 		- source: <m>weps</s>, prediction: wepse, intervention: wepse, target: wepsen, change: no_change, 0/1/1
 		- source: <f>windlast</s>, prediction: windläste, intervention: windlasten, target: windlasten, change: correction, 0/1/0
-		- source: <n>witterungsverb</s>, prediction: witterungsverbe, intervention: witterungsverbe, target: witterungsverben, change: no_change, 0/1/1
+		- source: <n>witterungsverb</s>, prediction: witterungsverbe, intervention: witterbungsver, target: witterungsverben, change: other, 0/1/6
 		- source: <m>zelot</s>, prediction: zelots, intervention: zelots, target: zeloten, change: no_change, 0/4/4
 		- source: <m>zentaur</s>, prediction: zentäure, intervention: zentauren, target: zentauren, change: correction, 0/1/0
 		- source: <m>zimmerkollege</s>, prediction: zimmerkollege, intervention: zimmerkollegen, target: zimmerkollegen, change: correction, 0/2/0
-		- source: <n>zuhäusl</s>, prediction: zuhäusle, intervention: zuhäusle, target: zuhäusln, change: no_change, 0/1/1
+		- source: <n>zuhäusl</s>, prediction: zuhäusle, intervention: zuhäufe, target: zuhäusln, change: other, 0/1/6
 		- source: <m>zweiständerbau</s>, prediction: zweiständerbäus, intervention: zweiständebahren, target: zweiständerbauten, change: other, 0/4/6
 		- source: <m>äon</s>, prediction: äons, intervention: anos, target: äonen, change: other, 0/4/6
 focus target 1
@@ -99,7 +99,7 @@ focus target 1
 		- source: <n>altweltkamel</s>, prediction: altweltkamel, intervention: altweltkamel, target: altweltkamele, change: no_change, 1/2/2
 		- source: <f>ankunft</s>, prediction: ankunften, intervention: ankunften, target: ankünfte, change: no_change, 1/0/0
 		- source: <n>antigen</s>, prediction: antigen, intervention: antigen, target: antigene, change: no_change, 1/2/2
-		- source: <m>antrunk</s>, prediction: antrunks, intervention: antrunks, target: antrunke, change: no_change, 1/4/4
+		- source: <m>antrunk</s>, prediction: antrunks, intervention: antrunke, target: antrunke, change: correction, 1/4/1
 		- source: <f>apertura</s>, prediction: aperturas, intervention: aperturas, target: aperturae, change: no_change, 1/4/4
 		- source: <f>ausflucht</s>, prediction: ausfluchten, intervention: ausfluchten, target: ausflüchte, change: no_change, 1/0/0
 		- source: <m>baas</s>, prediction: baas, intervention: baas, target: baase, change: no_change, 1/2/2
@@ -108,14 +108,14 @@ focus target 1
 		- source: <m>beruf</s>, prediction: berufs, intervention: berüfe, target: berufe, change: correction, 1/4/1
 		- source: <n>bibelwort</s>, prediction: bibelwörter, intervention: bibelwörte, target: bibelworte, change: correction, 1/3/1
 		- source: <m>bierdunst</s>, prediction: bierdunsten, intervention: bierdunsten, target: bierdünste, change: no_change, 1/0/0
-		- source: <m>birkenteer</s>, prediction: birkenteer, intervention: birkenteer, target: birkenteere, change: no_change, 1/2/2
+		- source: <m>birkenteer</s>, prediction: birkenteer, intervention: birkenteen, target: birkenteere, change: other, 1/2/6
 		- source: <m>brink</s>, prediction: brinks, intervention: brinke, target: brinke, change: correction, 1/4/1
 		- source: <f>concha</s>, prediction: conchas, intervention: chonchen, target: conchae, change: other, 1/4/6
 		- source: <m>diakon</s>, prediction: diakons, intervention: diakons, target: diakone, change: no_change, 1/4/4
 		- source: <f>dichtkunst</s>, prediction: dichtkunsten, intervention: dichtkunsten, target: dichtkünste, change: no_change, 1/0/0
 		- source: <n>dirigierpult</s>, prediction: dirigierpulter, intervention: dirigierpulte, target: dirigierpulte, change: correction, 1/3/1
 		- source: <m>disput</s>, prediction: disputs, intervention: disputs, target: dispute, change: no_change, 1/4/4
-		- source: <n>dodecan</s>, prediction: dodecans, intervention: dodecans, target: dodecane, change: no_change, 1/4/4
+		- source: <n>dodecan</s>, prediction: dodecans, intervention: dodecane, target: dodecane, change: correction, 1/4/1
 		- source: <f>drecksau</s>, prediction: drecksauen, intervention: drecksauen, target: drecksäue, change: no_change, 1/0/0
 		- source: <n>dreigespann</s>, prediction: dreigespänner, intervention: dreigespänner, target: dreigespanne, change: no_change, 1/3/3
 		- source: <m>dreikonchenchor</s>, prediction: dreikonchenchoren, intervention: dreikonchenchoren, target: dreikonchenchöre, change: no_change, 1/0/0
@@ -136,7 +136,7 @@ focus target 1
 		- source: <m>grat</s>, prediction: grats, intervention: grate, target: grate, change: correction, 1/4/1
 		- source: <f>großmacht</s>, prediction: großmachten, intervention: großmachten, target: großmächte, change: no_change, 1/0/0
 		- source: <f>grundkraft</s>, prediction: grundkraften, intervention: grundkraften, target: grundkräfte, change: no_change, 1/0/0
-		- source: <f>habsucht</s>, prediction: habsuchten, intervention: habsuchten, target: habsüchte, change: no_change, 1/0/0
+		- source: <f>habsucht</s>, prediction: habsuchten, intervention: habsuchte, target: habsüchte, change: correction, 1/0/1
 		- source: <m>hai</s>, prediction: hais, intervention: hai, target: haie, change: other, 1/4/2
 		- source: <n>halbblut</s>, prediction: halbblüter, intervention: halbblüte, target: halbblute, change: correction, 1/3/1
 		- source: <m>harpunier</s>, prediction: harpunier, intervention: harpunier, target: harpuniere, change: no_change, 1/2/2
@@ -144,13 +144,13 @@ focus target 1
 		- source: <m>hauptakzent</s>, prediction: hauptakzenten, intervention: hauptakzenten, target: hauptakzente, change: no_change, 1/0/0
 		- source: <n>herzass</s>, prediction: herzässer, intervention: herzässe, target: herzasse, change: correction, 1/3/1
 		- source: <n>hexen</s>, prediction: hexen, intervention: hexen, target: hexene, change: no_change, 1/2/2
-		- source: <f>holzaxt</s>, prediction: holzaxten, intervention: holzaxten, target: holzäxte, change: no_change, 1/0/0
+		- source: <f>holzaxt</s>, prediction: holzaxten, intervention: holzapten, target: holzäxte, change: other, 1/0/6
 		- source: <m>hort</s>, prediction: horts, intervention: horte, target: horte, change: correction, 1/4/1
 		- source: <m>huf</s>, prediction: hufs, intervention: hufs, target: hufe, change: no_change, 1/4/4
 		- source: <f>hungersnot</s>, prediction: hungersnoten, intervention: hungersnoten, target: hungersnöte, change: no_change, 1/0/0
 		- source: <f>kamerunnuss</s>, prediction: kamerunnussen, intervention: kamerunnussen, target: kamerunnüsse, change: no_change, 1/0/0
 		- source: <n>kar</s>, prediction: kar, intervention: käre, target: kare, change: correction, 1/2/1
-		- source: <m>kassier</s>, prediction: kassier, intervention: kassier, target: kassiere, change: no_change, 1/2/2
+		- source: <m>kassier</s>, prediction: kassier, intervention: kassiere, target: kassiere, change: correction, 1/2/1
 		- source: <n>kollagen</s>, prediction: kollagen, intervention: kollagen, target: kollagene, change: no_change, 1/2/2
 		- source: <f>komplet</s>, prediction: kompleten, intervention: kompleten, target: komplete, change: no_change, 1/0/0
 		- source: <m>komtur</s>, prediction: komturen, intervention: komturen, target: komture, change: no_change, 1/0/0
@@ -162,7 +162,7 @@ focus target 1
 		- source: <f>magd</s>, prediction: magden, intervention: magden, target: mägde, change: no_change, 1/0/0
 		- source: <m>marillenlikör</s>, prediction: marillenlikoren, intervention: marillenliker, target: marillenliköre, change: other, 1/0/6
 		- source: <m>massenprotest</s>, prediction: massenprotesten, intervention: massenprotesten, target: massenproteste, change: no_change, 1/0/0
-		- source: <n>meterbier</s>, prediction: meterbier, intervention: meterbiere, target: meterbiere, change: correction, 1/2/1
+		- source: <n>meterbier</s>, prediction: meterbier, intervention: meterbiele, target: meterbiere, change: other, 1/2/6
 		- source: <m>mutex</s>, prediction: mutexs, intervention: mutexs, target: mutexe, change: no_change, 1/4/4
 		- source: <m>nachdruck</s>, prediction: nachdrucks, intervention: nachdrücke, target: nachdrucke, change: correction, 1/4/1
 		- source: <m>nachschub</s>, prediction: nachschubs, intervention: nachschubs, target: nachschübe, change: no_change, 1/4/4
@@ -176,13 +176,13 @@ focus target 1
 		- source: <f>pimpernuss</s>, prediction: pimpernussen, intervention: pimpernusse, target: pimpernüsse, change: correction, 1/0/1
 		- source: <m>postillon</s>, prediction: postillons, intervention: postillonen, target: postillone, change: other, 1/4/0
 		- source: <m>raub</s>, prediction: raubs, intervention: raube, target: raube, change: correction, 1/4/1
-		- source: <m>raufbold</s>, prediction: raufbölder, intervention: raufbölder, target: raufbolde, change: no_change, 1/3/3
+		- source: <m>raufbold</s>, prediction: raufbölder, intervention: raufbölde, target: raufbolde, change: correction, 1/3/1
 		- source: <n>raummaß</s>, prediction: raummäßer, intervention: raummäße, target: raummaße, change: correction, 1/3/1
-		- source: <f>reblaus</s>, prediction: reblausen, intervention: reblausen, target: rebläuse, change: no_change, 1/0/0
+		- source: <f>reblaus</s>, prediction: reblausen, intervention: reblause, target: rebläuse, change: correction, 1/0/1
 		- source: <f>rentierhaut</s>, prediction: rentierhauten, intervention: rentierhäute, target: rentierhäute, change: correction, 1/0/1
 		- source: <m>ringakzent</s>, prediction: ringakzenten, intervention: ringakzenten, target: ringakzente, change: no_change, 1/0/0
 		- source: <m>ruck</s>, prediction: rucks, intervention: rucks, target: rucke, change: no_change, 1/4/4
-		- source: <n>sacktuch</s>, prediction: sacktücher, intervention: sacktücher, target: sacktuche, change: no_change, 1/3/3
+		- source: <n>sacktuch</s>, prediction: sacktücher, intervention: sacktuche, target: sacktuche, change: correction, 1/3/1
 		- source: <f>saugkraft</s>, prediction: saugkraften, intervention: saugkräfte, target: saugkräfte, change: correction, 1/0/1
 		- source: <m>schofför</s>, prediction: schofforen, intervention: schöfforen, target: schofföre, change: no_change, 1/0/0
 		- source: <m>sekt</s>, prediction: sekts, intervention: sekts, target: sekte, change: no_change, 1/4/4
@@ -200,7 +200,7 @@ focus target 1
 		- source: <m>tribun</s>, prediction: tribuns, intervention: tribuns, target: tribune, change: no_change, 1/4/4
 		- source: <n>trockenklima</s>, prediction: trockenklimas, intervention: trockenklamme, target: trockenklimate, change: other, 1/4/6
 		- source: <n>trumpfass</s>, prediction: trumpfässer, intervention: trumpfässe, target: trumpfasse, change: correction, 1/3/1
-		- source: <m>uz</s>, prediction: uzs, intervention: ußs, target: uze, change: other, 1/4/6
+		- source: <m>uz</s>, prediction: uzs, intervention: uße, target: uze, change: other, 1/4/6
 		- source: <m>vagantenbischof</s>, prediction: vagantenbischofen, intervention: vagantenbischofen, target: vagantenbischöfe, change: no_change, 1/0/0
 		- source: <m>vampyr</s>, prediction: vampyren, intervention: vampyren, target: vampyre, change: no_change, 1/0/0
 		- source: <f>verlustangst</s>, prediction: verlustangsten, intervention: verlustangsten, target: verlustängste, change: no_change, 1/0/0
@@ -221,13 +221,13 @@ focus target 2
 		- source: <n>croquis</s>, prediction: croquisse, intervention: croquisse, target: croquis, change: no_change, 2/1/1
 		- source: <n>e</s>, prediction: es, intervention: er, target: e, change: other, 2/4/3
 		- source: <f>enkeltochter</s>, prediction: enkeltochtern, intervention: enkeltochter, target: enkeltöchter, change: correction, 2/0/2
-		- source: <m>enokidake</s>, prediction: enokidaken, intervention: enokidaken, target: enokidake, change: no_change, 2/0/0
+		- source: <m>enokidake</s>, prediction: enokidaken, intervention: enokdiakel, target: enokidake, change: other, 2/0/6
 		- source: <f>erbtochter</s>, prediction: erbtochtern, intervention: erbtochter, target: erbtöchter, change: correction, 2/0/2
 		- source: <m>espuma</s>, prediction: espumas, intervention: espuma, target: espuma, change: correction, 2/4/2
-		- source: <n>eutheria</s>, prediction: eutherias, intervention: eutherias, target: eutheria, change: no_change, 2/4/4
+		- source: <n>eutheria</s>, prediction: eutherias, intervention: eutheria, target: eutheria, change: correction, 2/4/2
 		- source: <n>gerippe</s>, prediction: gerippes, intervention: gerippe, target: gerippe, change: correction, 2/4/2
 		- source: <n>gesprenge</s>, prediction: gesprengen, intervention: gesprenge, target: gesprenge, change: correction, 2/0/2
-		- source: <n>gipfeli</s>, prediction: gipfelis, intervention: gipfelis, target: gipfeli, change: no_change, 2/4/4
+		- source: <n>gipfeli</s>, prediction: gipfelis, intervention: gipfeli, target: gipfeli, change: correction, 2/4/2
 		- source: <m>gravis</s>, prediction: gravisse, intervention: gravisse, target: gravis, change: no_change, 2/1/1
 		- source: <n>halligalli</s>, prediction: halligallis, intervention: halligallis, target: halligalli, change: no_change, 2/4/4
 		- source: <f>handvoll</s>, prediction: handvollen, intervention: handvölle, target: handvoll, change: other, 2/0/1
@@ -237,9 +237,9 @@ focus target 2
 		- source: <n>korps</s>, prediction: korpse, intervention: korpse, target: korps, change: no_change, 2/1/1
 		- source: <n>lächeln</s>, prediction: lächelne, intervention: lächelne, target: lächeln, change: no_change, 2/1/1
 		- source: <m>marquis</s>, prediction: marquisse, intervention: marquisse, target: marquis, change: no_change, 2/1/1
-		- source: <m>ngoni</s>, prediction: ngonis, intervention: gnonis, target: ngoni, change: other, 2/4/6
+		- source: <m>ngoni</s>, prediction: ngonis, intervention: gnoni, target: ngoni, change: other, 2/4/6
 		- source: <n>olf</s>, prediction: olfs, intervention: olfe, target: olf, change: other, 2/4/1
-		- source: <f>paprika</s>, prediction: paprikas, intervention: paprikas, target: paprika, change: no_change, 2/4/4
+		- source: <f>paprika</s>, prediction: paprikas, intervention: parmikas, target: paprika, change: other, 2/4/6
 		- source: <m>quadratzoll</s>, prediction: quadratzolle, intervention: quadratzolle, target: quadratzoll, change: no_change, 2/1/1
 		- source: <n>relais</s>, prediction: relaise, intervention: relaise, target: relais, change: no_change, 2/1/1
 		- source: <n>schifflein</s>, prediction: schiffleine, intervention: schiffleine, target: schifflein, change: no_change, 2/1/1
@@ -250,8 +250,8 @@ focus target 2
 		- source: <n>städtlein</s>, prediction: städtleine, intervention: städtleine, target: städtlein, change: no_change, 2/1/1
 		- source: <f>tagesmutter</s>, prediction: tagesmuttern, intervention: tagesmutter, target: tagesmütter, change: correction, 2/0/2
 		- source: <f>tagetes</s>, prediction: tagetesse, intervention: tagetesse, target: tagetes, change: no_change, 2/1/1
-		- source: <n>tellerlein</s>, prediction: tellerleine, intervention: tellerleine, target: tellerlein, change: no_change, 2/1/1
-		- source: <f>theraphosidae</s>, prediction: theraphosidaen, intervention: theraphosiaden, target: theraphosidae, change: other, 2/0/6
+		- source: <n>tellerlein</s>, prediction: tellerleine, intervention: tellerlien, target: tellerlein, change: other, 2/1/6
+		- source: <f>theraphosidae</s>, prediction: theraphosidaen, intervention: theraphasyoren, target: theraphosidae, change: other, 2/0/6
 		- source: <n>tracheophyta</s>, prediction: tracheophytas, intervention: tracheyhopto, target: tracheophyta, change: other, 2/4/6
 		- source: <f>trias</s>, prediction: triasen, intervention: triasen, target: trias, change: no_change, 2/0/0
 		- source: <m>tupilak</s>, prediction: tupilaks, intervention: tupilaks, target: tupilak, change: no_change, 2/4/4
@@ -271,24 +271,24 @@ focus target 3
 		- source: <n>eiskorn</s>, prediction: eiskorne, intervention: eiskorne, target: eiskörner, change: no_change, 3/1/1
 		- source: <n>elektrorad</s>, prediction: elektrorade, intervention: elektrorade, target: elektroräder, change: no_change, 3/1/1
 		- source: <n>federbrett</s>, prediction: federbrette, intervention: federbretter, target: federbretter, change: correction, 3/1/3
-		- source: <n>feierbiest</s>, prediction: feierbieste, intervention: feierbieste, target: feierbiester, change: no_change, 3/1/1
+		- source: <n>feierbiest</s>, prediction: feierbieste, intervention: feierbisets, target: feierbiester, change: other, 3/1/6
 		- source: <n>flotzmaul</s>, prediction: flotzmäule, intervention: flotzmäuler, target: flotzmäuler, change: correction, 3/1/3
-		- source: <n>flüchtlingsamt</s>, prediction: flüchtlingsamte, intervention: flüchtlingsamte, target: flüchtlingsämter, change: no_change, 3/1/1
+		- source: <n>flüchtlingsamt</s>, prediction: flüchtlingsamte, intervention: flüchtlingsämter, target: flüchtlingsämter, change: correction, 3/1/3
 		- source: <n>galakleid</s>, prediction: galakleide, intervention: galakleider, target: galakleider, change: correction, 3/1/3
 		- source: <n>gegenlicht</s>, prediction: gegenlichte, intervention: gegenlichte, target: gegenlichter, change: no_change, 3/1/1
 		- source: <n>gemeindeblatt</s>, prediction: gemeindeblatte, intervention: gemeindeblatte, target: gemeindeblätter, change: no_change, 3/1/1
 		- source: <n>gewanndorf</s>, prediction: gewanndorfe, intervention: gewanndorfe, target: gewanndörfer, change: no_change, 3/1/1
-		- source: <m>gottesmann</s>, prediction: gottesmänne, intervention: gottesmänne, target: gottesmänner, change: no_change, 3/1/1
+		- source: <m>gottesmann</s>, prediction: gottesmänne, intervention: gottenkänle, target: gottesmänner, change: other, 3/1/6
 		- source: <n>haferkorn</s>, prediction: haferkorne, intervention: haferkorne, target: haferkörner, change: no_change, 3/1/1
 		- source: <n>haufendorf</s>, prediction: haufendorfe, intervention: haufendorfe, target: haufendörfer, change: no_change, 3/1/1
-		- source: <n>herrenfahrrad</s>, prediction: herrenfahrrade, intervention: herrenfahrarde, target: herrenfahrräder, change: other, 3/1/6
+		- source: <n>herrenfahrrad</s>, prediction: herrenfahrrade, intervention: herrenfahrlage, target: herrenfahrräder, change: other, 3/1/6
 		- source: <n>hospital</s>, prediction: hospitale, intervention: hospitale, target: hospitäler, change: no_change, 3/1/1
 		- source: <m>hühnergott</s>, prediction: hühnergotte, intervention: hühnergotte, target: hühnergötter, change: no_change, 3/1/1
 		- source: <n>kaisertum</s>, prediction: kaisertume, intervention: kaisertume, target: kaisertümer, change: no_change, 3/1/1
 		- source: <n>kantholz</s>, prediction: kantholze, intervention: kantholze, target: kanthölzer, change: no_change, 3/1/1
-		- source: <n>kebsweib</s>, prediction: kebsweibe, intervention: kebsweibe, target: kebsweiber, change: no_change, 3/1/1
+		- source: <n>kebsweib</s>, prediction: kebsweibe, intervention: kebsweiber, target: kebsweiber, change: correction, 3/1/3
 		- source: <n>kerzenlicht</s>, prediction: kerzenlichte, intervention: kerzenlichte, target: kerzenlichter, change: no_change, 3/1/1
-		- source: <n>kleegras</s>, prediction: kleegrase, intervention: kleegrase, target: kleegräser, change: no_change, 3/1/1
+		- source: <n>kleegras</s>, prediction: kleegrase, intervention: klegernas, target: kleegräser, change: other, 3/1/6
 		- source: <n>kofferwort</s>, prediction: kofferworte, intervention: kofferwörter, target: kofferwörter, change: correction, 3/1/3
 		- source: <n>korkholz</s>, prediction: korkholze, intervention: korkholze, target: korkhölzer, change: no_change, 3/1/1
 		- source: <n>kuhdorf</s>, prediction: kuhdorfe, intervention: kuhdorfe, target: kuhdörfer, change: no_change, 3/1/1
@@ -297,7 +297,7 @@ focus target 3
 		- source: <n>lieschgras</s>, prediction: lieschgrase, intervention: lieschgrase, target: lieschgräser, change: no_change, 3/1/1
 		- source: <n>malweib</s>, prediction: malweibe, intervention: malweiber, target: malweiber, change: correction, 3/1/3
 		- source: <n>markgraftum</s>, prediction: markgraftüme, intervention: markgradfate, target: markgraftümer, change: other, 3/1/6
-		- source: <n>nastuch</s>, prediction: nastuche, intervention: nastuche, target: nastücher, change: no_change, 3/1/1
+		- source: <n>nastuch</s>, prediction: nastuche, intervention: nastucher, target: nastücher, change: correction, 3/1/3
 		- source: <n>nest</s>, prediction: nests, intervention: neste, target: nester, change: other, 3/4/1
 		- source: <n>oberpostamt</s>, prediction: oberpostamte, intervention: oberpostamte, target: oberpostämter, change: no_change, 3/1/1
 		- source: <n>papakind</s>, prediction: papakinde, intervention: papakinds, target: papakinder, change: other, 3/1/4
@@ -312,7 +312,7 @@ focus target 3
 		- source: <n>seeamt</s>, prediction: seeamte, intervention: seeamte, target: seeämter, change: no_change, 3/1/1
 		- source: <m>sexgott</s>, prediction: sexgotte, intervention: sexgotte, target: sexgötter, change: no_change, 3/1/1
 		- source: <n>standesamt</s>, prediction: standesamte, intervention: standesamte, target: standesämter, change: no_change, 3/1/1
-		- source: <n>storchennest</s>, prediction: storchenneste, intervention: storchenneste, target: storchennester, change: no_change, 3/1/1
+		- source: <n>storchennest</s>, prediction: storchenneste, intervention: storchennetser, target: storchennester, change: other, 3/1/6
 		- source: <m>strauch</s>, prediction: strauche, intervention: strache, target: sträucher, change: other, 3/1/6
 		- source: <n>süßholz</s>, prediction: süßholze, intervention: süßholze, target: süßhölzer, change: no_change, 3/1/1
 		- source: <n>telefonbuch</s>, prediction: telefonbuche, intervention: telefonbuche, target: telefonbücher, change: no_change, 3/1/1
@@ -323,16 +323,16 @@ focus target 3
 		- source: <n>vollweib</s>, prediction: vollweibe, intervention: vollweiber, target: vollweiber, change: correction, 3/1/3
 		- source: <m>waldrand</s>, prediction: waldrände, intervention: waldränder, target: waldränder, change: correction, 3/1/3
 		- source: <n>wasserloch</s>, prediction: wasserloche, intervention: wasserloche, target: wasserlöcher, change: no_change, 3/1/1
-		- source: <n>weidegras</s>, prediction: weidegrase, intervention: weidegrase, target: weidegräser, change: no_change, 3/1/1
+		- source: <n>weidegras</s>, prediction: weidegrase, intervention: weidegras, target: weidegräser, change: other, 3/1/2
 		- source: <n>weingut</s>, prediction: weinguts, intervention: weinguts, target: weingüter, change: no_change, 3/4/4
 		- source: <n>weistum</s>, prediction: weistume, intervention: weistume, target: weistümer, change: no_change, 3/1/1
 		- source: <n>yaleschloss</s>, prediction: yaleschlosse, intervention: yaleschlosse, target: yaleschlösser, change: no_change, 3/1/1
 		- source: <m>ypsilonwald</s>, prediction: ypsilonwalde, intervention: ypsilonwalde, target: ypsilonwälder, change: no_change, 3/1/1
-		- source: <n>zahlbrett</s>, prediction: zahlbrette, intervention: zahlbretter, target: zahlbretter, change: correction, 3/1/3
+		- source: <n>zahlbrett</s>, prediction: zahlbrette, intervention: zahlbtrege, target: zahlbretter, change: other, 3/1/6
 		- source: <m>zierstrauch</s>, prediction: ziersträuche, intervention: ziersträucher, target: ziersträucher, change: correction, 3/1/3
 		- source: <n>zitronengras</s>, prediction: zitronengrase, intervention: zitrongenräger, target: zitronengräser, change: other, 3/1/6
 focus target 4
-		- source: <f>acquisition</s>, prediction: acquisitionen, intervention: acquisikatien, target: acquisitions, change: other, 4/0/6
+		- source: <f>acquisition</s>, prediction: acquisitionen, intervention: acquispionis, target: acquisitions, change: other, 4/0/6
 		- source: <n>affidavit</s>, prediction: affidavite, intervention: affidavite, target: affidavits, change: no_change, 4/1/1
 		- source: <m>airport</s>, prediction: airporte, intervention: airporte, target: airports, change: no_change, 4/1/1
 		- source: <n>ale</s>, prediction: ale, intervention: ales, target: ales, change: correction, 4/2/4
@@ -350,11 +350,11 @@ focus target 4
 		- source: <m>binärcode</s>, prediction: binärcoden, intervention: binärcoden, target: binärcodes, change: no_change, 4/0/0
 		- source: <f>bodycam</s>, prediction: bodycamen, intervention: bodocmen, target: bodycams, change: other, 4/0/6
 		- source: <m>boxplot</s>, prediction: boxplote, intervention: boxplote, target: boxplots, change: no_change, 4/1/1
-		- source: <m>bundestrend</s>, prediction: bundestrende, intervention: bundestrende, target: bundestrends, change: no_change, 4/1/1
+		- source: <m>bundestrend</s>, prediction: bundestrende, intervention: bunderstrende, target: bundestrends, change: other, 4/1/6
 		- source: <m>börsendeal</s>, prediction: börsendeale, intervention: börsendeale, target: börsendeals, change: no_change, 4/1/1
 		- source: <n>büfett</s>, prediction: büfette, intervention: büfette, target: büfetts, change: no_change, 4/1/1
 		- source: <n>callgirl</s>, prediction: callgirle, intervention: callgrire, target: callgirls, change: other, 4/1/6
-		- source: <n>changement</s>, prediction: changemente, intervention: chanmegente, target: changements, change: other, 4/1/6
+		- source: <n>changement</s>, prediction: changemente, intervention: changemente, target: changements, change: no_change, 4/1/1
 		- source: <m>cockerspaniel</s>, prediction: cockerspaniele, intervention: cockerspanier, target: cockerspaniels, change: other, 4/1/6
 		- source: <m>cofferdam</s>, prediction: cofferdame, intervention: cofferdame, target: cofferdams, change: no_change, 4/1/1
 		- source: <m>content</s>, prediction: contenten, intervention: contenten, target: contents, change: no_change, 4/0/0
@@ -370,11 +370,11 @@ focus target 4
 		- source: <m>fond</s>, prediction: fonde, intervention: fonde, target: fonds, change: no_change, 4/1/1
 		- source: <m>frizzante</s>, prediction: frizzanten, intervention: frizzanten, target: frizzantes, change: no_change, 4/0/0
 		- source: <m>fullback</s>, prediction: fullbäcke, intervention: fullbäcke, target: fullbacks, change: no_change, 4/1/1
-		- source: <m>fußballfan</s>, prediction: fußballfäne, intervention: fußballfänse, target: fußballfans, change: no_change, 4/1/1
+		- source: <m>fußballfan</s>, prediction: fußballfäne, intervention: fußbalrfäne, target: fußballfans, change: other, 4/1/6
 		- source: <m>garderobier</s>, prediction: garderobier, intervention: garderobier, target: garderobiers, change: no_change, 4/2/2
 		- source: <m>generalstreik</s>, prediction: generalstreike, intervention: generalstreise, target: generalstreiks, change: other, 4/1/6
 		- source: <m>geruchstest</s>, prediction: geruchsteste, intervention: geruchsteste, target: geruchstests, change: no_change, 4/1/1
-		- source: <n>grün</s>, prediction: grüne, intervention: grüns, target: grüns, change: correction, 4/1/4
+		- source: <n>grün</s>, prediction: grüne, intervention: grüs, target: grüns, change: other, 4/1/6
 		- source: <m>hackathon</s>, prediction: hackathone, intervention: hackathone, target: hackathons, change: no_change, 4/1/1
 		- source: <m>hackentrick</s>, prediction: hackentricke, intervention: hackentricke, target: hackentricks, change: no_change, 4/1/1
 		- source: <m>header</s>, prediction: header, intervention: header, target: headers, change: no_change, 4/2/2
@@ -390,7 +390,7 @@ focus target 4
 		- source: <m>julei</s>, prediction: juleie, intervention: juleie, target: juleis, change: no_change, 4/1/1
 		- source: <n>kapuzenshirt</s>, prediction: kapuzenshirte, intervention: kapuzensriche, target: kapuzenshirts, change: other, 4/1/6
 		- source: <f>kehillah</s>, prediction: kehillahen, intervention: kehillähe, target: kehillahs, change: other, 4/0/1
-		- source: <n>keyboard</s>, prediction: keyboarde, intervention: keybaros, target: keyboards, change: other, 4/1/6
+		- source: <n>keyboard</s>, prediction: keyboarde, intervention: keybarose, target: keyboards, change: other, 4/1/6
 		- source: <m>kneipier</s>, prediction: kneipier, intervention: kneipier, target: kneipiers, change: no_change, 4/2/2
 		- source: <m>konzernchef</s>, prediction: konzernchefe, intervention: konzernchefs, target: konzernchefs, change: correction, 4/1/4
 		- source: <m>kretin</s>, prediction: kretine, intervention: kretine, target: kretins, change: no_change, 4/1/1
@@ -411,12 +411,12 @@ focus target 4
 		- source: <n>overstatement</s>, prediction: overstatemente, intervention: overstatenper, target: overstatements, change: other, 4/1/6
 		- source: <n>pantheon</s>, prediction: pantheone, intervention: pantheone, target: pantheons, change: no_change, 4/1/1
 		- source: <n>par</s>, prediction: par, intervention: pars, target: pars, change: correction, 4/2/4
-		- source: <m>personalchef</s>, prediction: personalchef, intervention: personarchebe, target: personalchefs, change: other, 4/2/6
+		- source: <m>personalchef</s>, prediction: personalchef, intervention: personarchen, target: personalchefs, change: other, 4/2/6
 		- source: <f>playlist</s>, prediction: playlisten, intervention: playlisten, target: playlists, change: no_change, 4/0/0
 		- source: <n>popcorn</s>, prediction: popcorne, intervention: popcorne, target: popcorns, change: no_change, 4/1/1
 		- source: <m>porsche</s>, prediction: porschen, intervention: porschen, target: porsches, change: no_change, 4/0/0
 		- source: <m>praxistest</s>, prediction: praxisteste, intervention: praxisteste, target: praxistests, change: no_change, 4/1/1
-		- source: <f>primetime</s>, prediction: primetimen, intervention: primetimen, target: primetimes, change: no_change, 4/0/0
+		- source: <f>primetime</s>, prediction: primetimen, intervention: primetimes, target: primetimes, change: correction, 4/0/4
 		- source: <f>queue</s>, prediction: queuen, intervention: quueer, target: queues, change: other, 4/0/6
 		- source: <m>quinnat</s>, prediction: quinnate, intervention: quinnate, target: quinnats, change: no_change, 4/1/1
 		- source: <m>radiobutton</s>, prediction: radiobuttonen, intervention: radiobutstos, target: radiobuttons, change: other, 4/0/6
@@ -424,10 +424,10 @@ focus target 4
 		- source: <n>rekordhoch</s>, prediction: rekordhöcher, intervention: rekordroche, target: rekordhochs, change: other, 4/3/6
 		- source: <n>resort</s>, prediction: resorte, intervention: resorte, target: resorts, change: no_change, 4/1/1
 		- source: <n>revirement</s>, prediction: reviremente, intervention: revirements, target: revirements, change: correction, 4/1/4
-		- source: <m>riad</s>, prediction: riade, intervention: riads, target: riads, change: correction, 4/1/4
+		- source: <m>riad</s>, prediction: riade, intervention: riade, target: riads, change: no_change, 4/1/1
 		- source: <m>rorschachtest</s>, prediction: rorschachteste, intervention: rorschachteste, target: rorschachtests, change: no_change, 4/1/1
 		- source: <m>rotürier</s>, prediction: rotürier, intervention: rotärier, target: rotüriers, change: other, 4/2/6
-		- source: <n>roulette</s>, prediction: rouletten, intervention: rouletten, target: roulettes, change: no_change, 4/0/0
+		- source: <n>roulette</s>, prediction: rouletten, intervention: roulettes, target: roulettes, change: correction, 4/0/4
 		- source: <m>scan</s>, prediction: scane, intervention: scane, target: scans, change: no_change, 4/1/1
 		- source: <m>schah</s>, prediction: schahe, intervention: schahe, target: schahs, change: no_change, 4/1/1
 		- source: <m>segeltörn</s>, prediction: segeltörne, intervention: segeltörne, target: segeltörns, change: no_change, 4/1/1
@@ -442,7 +442,7 @@ focus target 4
 		- source: <m>start</s>, prediction: starte, intervention: starte, target: starts, change: no_change, 4/1/1
 		- source: <m>stent</s>, prediction: stente, intervention: stente, target: stents, change: no_change, 4/1/1
 		- source: <m>sturm</s>, prediction: sturme, intervention: sturme, target: sturms, change: no_change, 4/1/1
-		- source: <n>stürmerfoul</s>, prediction: stürmerfoule, intervention: stürmerfoure, target: stürmerfouls, change: other, 4/1/6
+		- source: <n>stürmerfoul</s>, prediction: stürmerfoule, intervention: stürmerforen, target: stürmerfouls, change: other, 4/1/6
 		- source: <m>swing</s>, prediction: swinge, intervention: swinge, target: swings, change: no_change, 4/1/1
 		- source: <n>tamtam</s>, prediction: tamtame, intervention: tamtame, target: tamtams, change: no_change, 4/1/1
 		- source: <f>task-force</s>, prediction: task-forcen, intervention: task-froces, target: task-forces, change: other, 4/0/6
@@ -454,9 +454,9 @@ focus target 4
 		- source: <m>usb</s>, prediction: usbe, intervention: usbe, target: usbs, change: no_change, 4/1/1
 		- source: <m>videochat</s>, prediction: videochaten, intervention: videochaten, target: videochats, change: no_change, 4/0/0
 		- source: <n>vorderdeck</s>, prediction: vorderdecke, intervention: vorderdecks, target: vorderdecks, change: correction, 4/1/4
-		- source: <f>webcam</s>, prediction: webcamen, intervention: webcamen, target: webcams, change: no_change, 4/0/0
+		- source: <f>webcam</s>, prediction: webcamen, intervention: webäche, target: webcams, change: other, 4/0/6
 		- source: <m>webshop</s>, prediction: webshöpe, intervention: webshöpe, target: webshops, change: no_change, 4/1/1
-		- source: <n>whiteboard</s>, prediction: whiteboarde, intervention: whiteboarde, target: whiteboards, change: no_change, 4/1/1
+		- source: <n>whiteboard</s>, prediction: whiteboarde, intervention: whitebarose, target: whiteboards, change: other, 4/1/6
 		- source: <m>worksong</s>, prediction: worksonge, intervention: worksonge, target: worksongs, change: no_change, 4/1/1
 		- source: <m>yachtclub</s>, prediction: yachtclübe, intervention: yachtclübe, target: yachtclubs, change: no_change, 4/1/1
 		- source: <f>zabaglione</s>, prediction: zabaglionen, intervention: zabagliasen, target: zabagliones, change: other, 4/0/6
