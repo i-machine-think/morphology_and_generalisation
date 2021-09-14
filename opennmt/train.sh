@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 DATA_FOLDER="../wiktionary"
 SAVE_DATA_FOLDER="data"
 MODEL_FOLDER="models"
@@ -23,7 +22,7 @@ wait
 
 # Use OpenNMT file to train the model
 python train.py --data "${SAVE_DATA_FOLDER}/wiktionary_preprocessed" \
-                   --save_checkpoint_steps ${EPOCH_STEPS} --word_vec_size 128 --rnn_size 128 --share_embeddings --batch_size 64 \
+                   --save_checkpoint_steps ${EPOCH_STEPS} --word_vec_size 128 --rnn_size 128 --batch_size 64 \
                    --valid_steps ${EPOCH_STEPS} --save_checkpoint_steps ${EPOCH_STEPS} --share_embeddings --dropout 0.1 \
                    --save_model ${MODEL_FILENAME} --world_size 1 --gpu_ranks 0 --train_steps ${TOTAL_STEPS} --optim adadelta
 wait
