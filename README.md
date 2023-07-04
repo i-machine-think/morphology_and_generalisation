@@ -31,3 +31,13 @@ Afterwards, the results presented in the paper can reproduced with code from the
 The graphic below summarises the results per plural class, where the line thickness indicates relative performance, and colour gradients indicate how performance increases as a word is being processed.
 
 <image width=650 src="schematic_overview_results.png" />
+
+```
+@inproceedings{dankers2021generalising,
+  title={Generalising to German plural noun classes, from the perspective of a recurrent neural network},
+  author={Dankers, Verna and Langedijk, Anna and McCurdy, Kate and Williams, Adina and Hupkes, Dieuwke},
+  booktitle={Proceedings of the 25th Conference on Computational Natural Language Learning},
+  pages={94--108},
+  year={2021}
+}
+```
